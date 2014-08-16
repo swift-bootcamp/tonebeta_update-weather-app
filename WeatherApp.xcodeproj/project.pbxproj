@@ -12,6 +12,7 @@
 		1867EB30199F2C0800DDED31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1867EB2E199F2C0800DDED31 /* Main.storyboard */; };
 		1867EB32199F2C0800DDED31 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1867EB31199F2C0800DDED31 /* Images.xcassets */; };
 		1867EB3E199F2C0800DDED31 /* WeatherAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1867EB3D199F2C0800DDED31 /* WeatherAppTests.swift */; };
+		1867EB48199F31CE00DDED31 /* rain-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 1867EB47199F31CE00DDED31 /* rain-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +35,7 @@
 		1867EB37199F2C0800DDED31 /* WeatherAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WeatherAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1867EB3C199F2C0800DDED31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1867EB3D199F2C0800DDED31 /* WeatherAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherAppTests.swift; sourceTree = "<group>"; };
+		1867EB47199F31CE00DDED31 /* rain-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "rain-icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		1867EB27199F2C0800DDED31 /* WeatherApp */ = {
 			isa = PBXGroup;
 			children = (
+				1867EB47199F31CE00DDED31 /* rain-icon.png */,
 				1867EB2A199F2C0800DDED31 /* AppDelegate.swift */,
 				1867EB2C199F2C0800DDED31 /* ViewController.swift */,
 				1867EB2E199F2C0800DDED31 /* Main.storyboard */,
@@ -190,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1867EB30199F2C0800DDED31 /* Main.storyboard in Resources */,
+				1867EB48199F31CE00DDED31 /* rain-icon.png in Resources */,
 				1867EB32199F2C0800DDED31 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
